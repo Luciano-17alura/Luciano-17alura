@@ -1,5 +1,4 @@
-## Boas vindas ao meu perfil 💙
-
+### Boas vindas ao meu perfil 💙
 Meu nome é Luciano Pimentel
 
 - Estou estudando na [Alura](https://https://www.alura.com.br)
